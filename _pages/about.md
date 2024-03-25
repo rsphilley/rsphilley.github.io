@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>The University of Texas at Austin</a>. rsphilley@utexas.edu.
+subtitle: <a href='https://oden.utexas.edu/'>The Oden Institute for Computational Engineering & Sciences</a> at The University of Texas at Austin.
 
 profile:
   align: right
   image: rusty_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>The Oden Institute for Computational Engineering & Sciences</p>
+    <p>rsphilley@utexas.edu</p>
     <p>Austin, Texas</p>
 
 news: true # includes a list of news items

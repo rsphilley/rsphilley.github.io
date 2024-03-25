@@ -1,14 +1,22 @@
 ---
 ---
 
-@article{limaBayesianCalibrationStochastic2021,
-	title = {Bayesian calibration of a stochastic, multiscale agent-based model for predicting in vitro tumor growth},
-	url = {http://biorxiv.org/content/early/2021/03/03/2021.03.03.433731.abstract},
-	doi = {10.1101/2021.03.03.433731},
-	abstract = {Hybrid multiscale agent-based models (ABMs) are unique in their ability to simulate individual cell interactions and microenvironmental dynamics. Unfortunately, the high computational cost of modeling individual cells, the inherent stochasticity due to probabilistic phenotypic transitions, and numerous model parameters that are difficult to measure directly are fundamental limitations of applying such models to predict tumor dynamics. To overcome these challenges, we have developed a coarse-grained two-scale ABM (cgABM) calibrated with a set of time-resolved microscopy measurements of cancer cells grown with different initial conditions. The multiscale model consists of a reaction-diffusion type model capturing the spatio-temporal evolution of glucose and growth factors in the tumor microenvironment (at tissue scale), coupled with a lattice-free ABM to simulate individual cell dynamics (at cellular scale). The experimental data consists of BT474 human breast carcinoma cells initialized with different glucose concentrations and tumor cell confluences. The confluence of live and dead cells was measured every three hours over four days.   Given this model and data, we perform a global sensitivity analysis to identify the relative importance of the model parameters. The subsequent cgABM with a reduced parameter space is calibrated within a Bayesian framework to the experimental data to estimate model parameters, which are then used to predict the temporal evolution of the living and dead cell populations. To this end, a moment-based Bayesian inference is proposed to account for the stochasticity of the cgABM while quantifying uncertainties in model parameters and observational data. The results indicate that the cgABM can reliably predict the spatiotemporal evolution of breast cancer cells observed by the microscopy data with an average error and standard deviation for live and dead cells being 7.61 [[EQUATION]] 2.01 and 5.78 [[EQUATION]] 1.13, respectively.},
-	journal = {bioRxiv},
-	author = {Lima, Ernesto  A. B. F. and Faghihi, Danial and Philley, Russel and Yang, Jianchen and Virostko, John and Phillips, Caleb  M. and Yankeelov, Thomas},
-	month = jan,
+
+@article{limaBayesianCalibrationStochastic2021a,
+	title = {Bayesian calibration of a stochastic, multiscale agent-based model for predicting in vitro tumor growth},
+	volume = {17},
+	issn = {1553-7358},
+	url = {https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008845},
+	doi = {10.1371/journal.pcbi.1008845},
+	abstract = {Hybrid multiscale agent-based models (ABMs) are unique in their ability to simulate individual cell interactions and microenvironmental dynamics. Unfortunately, the high computational cost of modeling individual cells, the inherent stochasticity of cell dynamics, and numerous model parameters are fundamental limitations of applying such models to predict tumor dynamics. To overcome these challenges, we have developed a coarse-grained two-scale ABM (cgABM) with a reduced parameter space that allows for an accurate and efficient calibration using a set of time-resolved microscopy measurements of cancer cells grown with different initial conditions. The multiscale model consists of a reaction-diffusion type model capturing the spatio-temporal evolution of glucose and growth factors in the tumor microenvironment (at tissue scale), coupled with a lattice-free ABM to simulate individual cell dynamics (at cellular scale). The experimental data consists of BT474 human breast carcinoma cells initialized with different glucose concentrations and tumor cell confluences. The confluence of live and dead cells was measured every three hours over four days. Given this model, we perform a time-dependent global sensitivity analysis to identify the relative importance of the model parameters. The subsequent cgABM is calibrated within a Bayesian framework to the experimental data to estimate model parameters, which are then used to predict the temporal evolution of the living and dead cell populations. To this end, a moment-based Bayesian inference is proposed to account for the stochasticity of the cgABM while quantifying uncertainties due to limited temporal observational data. The cgABM reduces the computational time of ABM simulations by 93\% to 97\% while staying within a 3\% difference in prediction compared to ABM. Additionally, the cgABM can reliably predict the temporal evolution of breast cancer cells observed by the microscopy data with an average error and standard deviation for live and dead cells being 7.61±2.01 and 5.78±1.13, respectively.},
+	language = {en},
+	number = {11},
+	urldate = {2024-03-25},
+	journal = {PLOS Computational Biology},
+	author = {Lima, Ernesto A. B. F. and Faghihi, Danial and Philley, Russell and Yang, Jianchen and Virostko, John and Phillips, Caleb M. and Yankeelov, Thomas E.},
+	month = nov,
 	year = {2021},
-	pages = {2021.03.03.433731},
+	note = {Publisher: Public Library of Science},
+	keywords = {Agent-based modeling, Cancers and neoplasms, Cell death, Death rates, Fluorescence imaging, Glucose, Malignant tumors, Radii},
+	pages = {e1008845},
 }
