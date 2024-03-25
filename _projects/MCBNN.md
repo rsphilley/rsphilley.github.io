@@ -8,4 +8,4 @@ category: Work
 related_publications: true
 ---
 
-WIP
+WIP {% cite philleyModelConstrainedBayesian2023 %}

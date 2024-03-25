@@ -9,7 +9,7 @@ profile:
   image: rusty_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>rsphilley@utexas.edu</p>
+    <p>rsphilley@utexas.edu</p><br>
     <p>Austin, Texas</p>
 
 news: true # includes a list of news items
