@@ -14,36 +14,39 @@
     - title: Ph.D., Computational Science, Engineering, & Mathematics
       institution: The University of Texas at Austin
       department: The Oden Institute for Computational Engineering & Science
-      year: August 2019 - Present
+      year: 2019.8 - Present
       description:
-        - GPA: ---
+        - "GPA: ---"
     - title: M.S., Computational Science, Engineering, & Mathematics
       institution: The University of Texas at Austin
       department: The Oden Institute for Computational Engineering & Science
-      year: August 2019 - August 2021
+      year: 2019.8 - 2021.8
       description:
-        - GPA: 3.9 / 4.0
+        - "GPA: 3.9 / 4.0"
     - title: Bachelor of Science, Computational Engineering
       institution: The University of Texas at Austin
       department: Department of Aerospace Engineering & Engineering Mechanics
-      year: August 2015 - May 2019
+      year: 2015.8 - 2019.5
       description:
-        - GPA: 3.9 / 4.0
+        - "GPA: 3.9 / 4.0"
 
 - title: Experience
   type: time_table
   contents:
     - title: Research & Development
       institution: Sandia National Laboratories
-      year: May 2018 - May 2020
+      department: Advanced Threat Defeat
+      year: 2018.5 - 2020.5
 
     - title: Graduate Research Assistant
-      institution: The University of Texas at Austin, PHO-ICES Group
-      year: April 2020 - Present
+      institution: The University of Texas at Austin
+      department: PHO-ICES Group
+      year: 2020.4 - Present
 
     - title: Research Assistant
-      institution: The University of Texas at Austin, Center for Computational Oncology
-      year: December 2015 - May 2019
+      institution: The University of Texas at Austin
+      department: Center for Computational Oncology
+      year: 2015.12 - 2019.5
     
 # - title: Open Source Projects
 #   type: time_table
