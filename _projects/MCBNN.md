@@ -4,7 +4,7 @@ title: MCBNN
 description: Physics-constrained deep learning methods. 
 img: 
 importance: 1
-category: work
+category: Work
 related_publications: true
 ---
 

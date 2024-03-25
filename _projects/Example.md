@@ -4,7 +4,7 @@ title: Example
 description: 
 img: 
 importance: 1
-category: misc
+category: Misc
 related_publications: true
 ---
 
